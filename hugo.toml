@@ -2,3 +2,8 @@ baseURL = 'https://visitcobblestonelake.com/'
 languageCode = 'en-us'
 title = 'Cobblestone Lake'
 theme = 'ananke'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

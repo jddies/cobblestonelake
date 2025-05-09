@@ -2,23 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://visitcobblestonelake.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://visitcobblestonelake.com/contact-us/</loc>
+    <loc>http://localhost:1313/contact-us/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://visitcobblestonelake.com/covenants-and-plat/</loc>
+    <loc>http://localhost:1313/covenants-and-plat/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://visitcobblestonelake.com/info/</loc>
+    <loc>http://localhost:1313/info/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://visitcobblestonelake.com/lot-pricing/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://visitcobblestonelake.com/categories/</loc>
+    <loc>http://localhost:1313/lot-pricing/</loc>
   </url><url>
-    <loc>https://visitcobblestonelake.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

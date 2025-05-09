@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cobblestone Lake</title>
-    <link>https://visitcobblestonelake.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Cobblestone Lake</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://visitcobblestonelake.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact Us</title>
-      <link>https://visitcobblestonelake.com/contact-us/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://visitcobblestonelake.com/contact-us/</guid>
-      <description>&lt;p&gt;Contact Information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:info@visitcobblestonelake.com&#34;&gt;info@visitcobblestonelake.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: (123) 456-7890&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contact Form:&#xA;[Contact Form Placeholder]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Covenants and Plat</title>
-      <link>https://visitcobblestonelake.com/covenants-and-plat/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://visitcobblestonelake.com/covenants-and-plat/</guid>
-      <description>&lt;p&gt;Community Rules:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No commercial activities allowed.&lt;/li&gt;&#xA;&lt;li&gt;Maintain the natural beauty of the area.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Plat Map:&#xA;[Plat Map Placeholder]&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
-      <link>https://visitcobblestonelake.com/info/</link>
+      <link>http://localhost:1313/info/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://visitcobblestonelake.com/info/</guid>
+      <guid>http://localhost:1313/info/</guid>
       <description>&lt;p&gt;Cobblestone Lake has a wonderful 5 acre private lake with 2 acres lots for sale.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact-us/</guid>
+      <description>&lt;p&gt;Contact Information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:dies@darrelldies.com&#34;&gt;dies@darrelldies.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: (309) 467-4351&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Covenants and Plat</title>
+      <link>http://localhost:1313/covenants-and-plat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/covenants-and-plat/</guid>
+      <description>&lt;section class=&#34;covenants-section&#34; style=&#34;max-width: 800px; margin: 2rem auto; text-align: center;&#34;&gt;&#xA;  &lt;h2 style=&#34;font-size:2rem; font-weight:700; margin-bottom:1.5rem;&#34;&gt;Community Covenants &amp; Plat Documents&lt;/h2&gt;&#xA;  &lt;p style=&#34;font-size:1.1rem; color:#444; margin-bottom:2.5rem;&#34;&gt;Below you&#39;ll find the official covenants and plat map for Cobblestone Lake. Click any document to view or download.&lt;/p&gt;&#xA;  &lt;div style=&#34;display: flex; flex-direction: column; gap: 1.5rem; align-items: center;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/docs/C_Lake_Covenants.pdf&#34; class=&#34;doc-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span class=&#34;doc-btn-text&#34;&gt;Covenants (PDF)&lt;/span&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/docs/C_Lake__1st_Amendment_to_Covenants.pdf&#34; class=&#34;doc-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span class=&#34;doc-btn-text&#34;&gt;1st Amendment to Covenants (PDF)&lt;/span&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/docs/C_Lake_Final_Plat_PDF.pdf&#34; class=&#34;doc-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span class=&#34;doc-btn-text&#34;&gt;Final Plat Map (PDF)&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&lt;style&gt;&#xA;  .doc-btn {&#xA;    display: inline-block;&#xA;    background: #e0e0e0;&#xA;    color: #111;&#xA;    padding: 0.75rem 2rem;&#xA;    border-radius: 30px;&#xA;    font-size: 1.1rem;&#xA;    font-weight: 600;&#xA;    text-decoration: none;&#xA;    box-shadow: 0 2px 8px rgba(0,0,0,0.07);&#xA;    transition: background 0.2s, box-shadow 0.2s;&#xA;    margin-bottom: 0.5rem;&#xA;  }&#xA;  .doc-btn:hover {&#xA;    background: #bdbdbd;&#xA;    box-shadow: 0 4px 16px rgba(0,0,0,0.13);&#xA;  }&#xA;  .doc-btn-text {&#xA;    color: #111;&#xA;  }&#xA;&lt;/style&gt;</description>
+    </item>
+    <item>
       <title>Lot Pricing</title>
-      <link>https://visitcobblestonelake.com/lot-pricing/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://visitcobblestonelake.com/lot-pricing/</guid>
-      <description>&lt;p&gt;Available Lots:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lot 1: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;li&gt;Lot 2: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;li&gt;Lot 3: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Lot Specifications:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Each lot is 2 acres in size.&lt;/li&gt;&#xA;&lt;li&gt;Located near the private lake.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <link>http://localhost:1313/lot-pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lot-pricing/</guid>
+      <description>&lt;section class=&#34;lot-pricing-section&#34; style=&#34;max-width: 800px; margin: 2rem auto; text-align: center;&#34;&gt;&#xA;  &lt;h2 style=&#34;font-size:2rem; font-weight:700; margin-bottom:1.5rem;&#34;&gt;Available Lots at Cobblestone Lake&lt;/h2&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/lots.jpeg&#34; alt=&#34;Cobblestone Lake Plat Map&#34; style=&#34;width:100%; max-width:600px; border-radius:12px; margin-bottom:2rem; box-shadow:0 2px 12px rgba(0,0,0,0.08);&#34; /&gt;&#xA;  &lt;ul style=&#34;list-style: disc; text-align:left; display:inline-block; margin: 0 auto 2rem auto; font-size:1.15rem; color:#333;&#34;&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Lot 11&lt;/strong&gt; — $62,500&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Lot 12&lt;/strong&gt; — $62,500&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Lot 15&lt;/strong&gt; — $61,000&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;  &lt;div style=&#34;margin-top:2.5rem;&#34;&gt;&#xA;    &lt;a href=&#34;mailto:dies@darrelldies.com&#34; class=&#34;homepage-btn homepage-btn-large&#34;&gt;Contact Us&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&lt;style&gt;&#xA;  .homepage-btn {&#xA;    display: inline-block;&#xA;    background: #2d6a4f;&#xA;    color: #fff;&#xA;    padding: 0.75rem 2rem;&#xA;    border-radius: 30px;&#xA;    font-size: 1.1rem;&#xA;    font-weight: 600;&#xA;    text-decoration: none;&#xA;    box-shadow: 0 2px 8px rgba(0,0,0,0.07);&#xA;    transition: background 0.2s, box-shadow 0.2s;&#xA;    margin-bottom: 0.5rem;&#xA;  }&#xA;  .homepage-btn:hover {&#xA;    background: #40916c;&#xA;    box-shadow: 0 4px 16px rgba(0,0,0,0.13);&#xA;  }&#xA;  .homepage-btn-large {&#xA;    font-size: 1.3rem;&#xA;    padding: 1rem 3rem;&#xA;    margin-top: 1rem;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Available Lots:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
