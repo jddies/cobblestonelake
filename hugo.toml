@@ -1,0 +1,4 @@
+baseURL = 'https://visitcobblestonelake.com/'
+languageCode = 'en-us'
+title = 'Cobblestone Lake'
+theme = 'ananke'

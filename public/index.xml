@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cobblestone Lake</title>
+    <link>https://visitcobblestonelake.com/</link>
+    <description>Recent content on Cobblestone Lake</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://visitcobblestonelake.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>https://visitcobblestonelake.com/contact-us/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://visitcobblestonelake.com/contact-us/</guid>
+      <description>&lt;p&gt;Contact Information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:info@visitcobblestonelake.com&#34;&gt;info@visitcobblestonelake.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: (123) 456-7890&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contact Form:&#xA;[Contact Form Placeholder]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Covenants and Plat</title>
+      <link>https://visitcobblestonelake.com/covenants-and-plat/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://visitcobblestonelake.com/covenants-and-plat/</guid>
+      <description>&lt;p&gt;Community Rules:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No commercial activities allowed.&lt;/li&gt;&#xA;&lt;li&gt;Maintain the natural beauty of the area.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Plat Map:&#xA;[Plat Map Placeholder]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Info</title>
+      <link>https://visitcobblestonelake.com/info/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://visitcobblestonelake.com/info/</guid>
+      <description>&lt;p&gt;Cobblestone Lake has a wonderful 5 acre private lake with 2 acres lots for sale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lot Pricing</title>
+      <link>https://visitcobblestonelake.com/lot-pricing/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://visitcobblestonelake.com/lot-pricing/</guid>
+      <description>&lt;p&gt;Available Lots:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lot 1: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;li&gt;Lot 2: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;li&gt;Lot 3: 2 acres - $100,000&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Lot Specifications:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Each lot is 2 acres in size.&lt;/li&gt;&#xA;&lt;li&gt;Located near the private lake.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
