@@ -1,24 +1,36 @@
 {{ define "main" }}
-  <h2 style="text-align: center; font-size: 2.2rem; margin-top: 1.5rem; margin-bottom: 1.2rem; font-weight: 600; letter-spacing: 1px;">
-    Cobblestone Lake Subdivision
-  </h2>
-  <p style="text-align: center; font-size: 1.4rem; margin-top: 0; margin-bottom: 2.2rem; font-weight: 500;">
-    Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale.
-  </p>
+  <section style="max-width: 800px; margin: 2rem auto; text-align: center;">
+    <h2 style="font-size:2rem; font-weight:700; margin-bottom:1.5rem;">Welcome to Cobblestone Lake</h2>
+    <p style="font-size:1.2rem; color:#555;">Discover the serenity and beauty of our private 5-acre lake community with spacious 2-acre lots available.</p>
+    <div style="margin-top:2.5rem;">
+      <a href="/lot-pricing/" class="homepage-btn homepage-btn-large">View Lot Pricing</a>
+      <a href="mailto:dies@darrelldies.com" class="homepage-btn homepage-btn-large">Contact Us</a>
+      <a href="https://www.google.com/maps/place/Cobblestone+Lake,+Eureka,+IL" class="homepage-btn homepage-btn-large" target="_blank">View Cobblestone Lake on Map</a>
+    </div>
+  </section>
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-    {{ .Content }}
-  </article>
-
-  <div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
-    <a href="/lot-pricing/" style="padding: 0.6rem 1.2rem; background-color: #2d6040; color: white; text-decoration: none; border-radius: 6px;">View Lots</a>
-    <a href="/community-rules/" style="padding: 0.6rem 1.2rem; background-color: #2d6040; color: white; text-decoration: none; border-radius: 6px;">Community Rules</a>
-    <a href="/contact/" style="padding: 0.6rem 1.2rem; background-color: #2d6040; color: white; text-decoration: none; border-radius: 6px;">Contact Us</a>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 1.5rem;">
-    <a href="https://maps.google.com/?q=Cobblestone+Lake+Eureka+IL" target="_blank" style="color: #2d6040; font-weight: 600; font-size: 1.1rem;">
-      View Cobblestone Lake on the Map
-    </a>
-  </div>
+  <style>
+    .homepage-btn {
+      display: inline-block;
+      background: #2d6a4f;
+      color: #fff;
+      padding: 0.75rem 2rem;
+      border-radius: 30px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      transition: background 0.2s, box-shadow 0.2s;
+      margin: 0.5rem;
+    }
+    .homepage-btn:hover {
+      background: #40916c;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    }
+    .homepage-btn-large {
+      font-size: 1.3rem;
+      padding: 1rem 3rem;
+      margin-top: 1rem;
+    }
+  </style>
 {{ end }}

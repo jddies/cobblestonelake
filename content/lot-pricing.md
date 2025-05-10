@@ -1,7 +1,7 @@
- ---
-title: ""
-description: ""
+---
+title: "Lot Pricing"
 draft: false
+description: ""
 ---
 
 <section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
