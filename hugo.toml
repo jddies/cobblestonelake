@@ -1,5 +1,7 @@
 # For GitHub Pages deployment, use this baseURL:
-baseURL = 'https://jddies.github.io/cobblestonelake/'
+baseURL = "https://jddies.github.io/cobblestonelake/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Cobblestone Lake'
 theme = 'ananke'
