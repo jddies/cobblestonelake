@@ -1,14 +1,49 @@
 ---
-title: "Welcome to Cobblestone Lake"
+title: "Lot Pricing"
 draft: false
-description: "Discover the serene country living at Cobblestone Lake, near Eureka, IL."
+description: ""
 ---
 
-<section style="max-width: 800px; margin: 2rem auto; text-align: center;">
-  <h1>Welcome to Cobblestone Lake</h1>
-  <p>Your peaceful retreat in the heart of Woodford County, Illinois.</p>
+<section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
+  <h2 style="font-size:2rem; font-weight:700; margin-bottom:1.5rem;">Available Lots at Cobblestone Lake</h2>
+
+  <img src="/images/lots.jpeg" alt="Cobblestone Lake Plat Map" style="width:100%; max-width:600px; border-radius:12px; margin-bottom:2rem; box-shadow:0 2px 12px rgba(0,0,0,0.08);" />
+
+  <div style="margin-top: 2rem; text-align: center;">
+    <h3 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem;">Lot Pricing</h3>
+    <ul style="list-style: none; padding: 0; margin: 0 auto; font-size: 1.2rem; color: #333;">
+      <li style="margin-bottom: 0.5rem;"><strong>Lot 11</strong> — $62,500</li>
+      <li style="margin-bottom: 0.5rem;"><strong>Lot 12</strong> — $62,500</li>
+      <li><strong>Lot 15</strong> — $61,000</li>
+    </ul>
+  </div>
+
+  <div style="margin-top:2.5rem;">
+    <a href="mailto:dies@darrelldies.com" class="homepage-btn homepage-btn-large">Contact Us</a>
+  </div>
 </section>
 
-<section style="max-width: 800px; margin: 2rem auto; text-align: center; font-size: 1.05rem; line-height: 1.6;">
-  Nestled just outside the charming city of Eureka, IL 61530, Cobblestone Lake offers a serene country escape with the best of small-town living. Eureka, the heart of Woodford County, is a tight-knit community of about 5,165 residents, known for its rich history, including ties to President Ronald Reagan, who graduated from Eureka College. The area boasts a peaceful rural vibe with easy access to modern amenities—think short commutes, top-rated schools like those in the Eureka CUD 140 District, and a low cost of living, with median home values around $150,000. With its proximity to the Peoria metropolitan area, Cobblestone Lake provides the perfect blend of tranquil lakefront living and the vibrant culture, dining, and recreation of nearby urban hubs, making it an ideal spot for families and retirees alike.
-</section>
+<style>
+  .homepage-btn {
+    display: inline-block;
+    background: #2d6a4f;
+    color: #fff;
+    padding: 0.75rem 2rem;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    transition: background 0.2s, box-shadow 0.2s;
+    margin-bottom: 0.5rem;
+  }
+  .homepage-btn:hover {
+    background: #40916c;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+  }
+  .homepage-btn-large {
+    font-size: 1.3rem;
+    padding: 1rem 3rem;
+    margin-top: 1rem;
+  }
+</style>
