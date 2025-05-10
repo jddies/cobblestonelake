@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <!-- Banner is already included globally -->
+  <section class="homepage-intro" style="text-align:center; max-width: 800px; margin: 2rem auto 2rem auto;">
+    <h2 style="font-size:1.7rem; font-weight:600; margin-bottom:1rem;">Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale.</h2>
+    <p style="font-size:1.1rem; color:#444; line-height:1.6;">
+      Nestled just outside the charming city of Eureka, IL 61530, Cobblestone Lake offers a serene country escape with the best of small-town living. Eureka, the heart of Woodford County, is a tight-knit community of about 5,165 residents, known for its rich history, including ties to President Ronald Reagan, who graduated from Eureka College. The area boasts a peaceful rural vibe with easy access to modern amenities—think short commutes, top-rated schools like those in the Eureka CUD 140 District, and a low cost of living, with median home values around $150,000. With its proximity to the Peoria metropolitan area, Cobblestone Lake provides the perfect blend of tranquil lakefront living and the vibrant culture, dining, and recreation of nearby urban hubs, making it an ideal spot for families and retirees alike.
+    </p>
+  </section>
+
+  <section class="homepage-links" style="display:flex; flex-wrap:wrap; justify-content:center; gap:2rem; margin:2rem 0;">
+    <a href="/lot-pricing/" class="homepage-btn">View Lots</a>
+    <a href="/covenants-and-plat/" class="homepage-btn">Community Rules</a>
+    <a href="/contact-us/" class="homepage-btn">Contact Us</a>
+  </section>
+
+  <section class="homepage-map" style="text-align:center; margin:2rem 0;">
+    <h3 style="font-size:1.3rem; font-weight:500; margin-bottom:0.5rem;">Cobblestone Lake</h3>
+    <a href="https://maps.app.goo.gl/QrpyWdtEJ7ewmis1A" target="_blank" rel="noopener" class="homepage-btn" style="margin-bottom:1rem;">View on Map</a>
+  </section>
+
+  <section class="homepage-cta" style="text-align:center; margin:3rem 0 2rem 0;">
+    <a href="mailto:dies@darrelldies.com" class="homepage-btn homepage-btn-large">Contact Us</a>
+  </section>
+
+  <style>
+    .homepage-btn {
+      display: inline-block;
+      background: #2d6a4f;
+      color: #fff;
+      padding: 0.75rem 2rem;
+      border-radius: 30px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      transition: background 0.2s, box-shadow 0.2s;
+      margin-bottom: 0.5rem;
+    }
+    .homepage-btn:hover {
+      background: #40916c;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    }
+    .homepage-btn-large {
+      font-size: 1.3rem;
+      padding: 1rem 3rem;
+      margin-top: 1rem;
+    }
+    @media (max-width: 700px) {
+      .homepage-links { flex-direction: column; gap: 1rem; }
+      .homepage-intro { padding: 0 1rem; }
+    }
+  </style>
+{{ end }} 
