@@ -1,4 +1,5 @@
-baseURL = 'https://visitcobblestonelake.com/'
+# For GitHub Pages deployment, use this baseURL:
+baseURL = 'https://jddies.github.io/cobblestonelake/'
 languageCode = 'en-us'
 title = 'Cobblestone Lake'
 theme = 'ananke'
@@ -7,3 +8,9 @@ theme = 'ananke'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  featured_image = "/images/banner.jpg"
+
+# When you switch to your custom domain, change baseURL back to:
+# baseURL = 'https://visitcobblestonelake.com/'

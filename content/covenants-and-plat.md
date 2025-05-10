@@ -4,7 +4,6 @@ draft: false
 ---
 
 <section class="covenants-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
-  <h2 style="font-size:2rem; font-weight:700; margin-bottom:1.5rem;">Community Covenants & Plat Documents</h2>
   <p style="font-size:1.1rem; color:#444; margin-bottom:2.5rem;">Below you'll find the official covenants and plat map for Cobblestone Lake. Click any document to view or download.</p>
   <div style="display: flex; flex-direction: column; gap: 1.5rem; align-items: center;">
     <a href="/docs/C_Lake_Covenants.pdf" class="doc-btn" target="_blank" rel="noopener"><span class="doc-btn-text">Covenants (PDF)</span></a>
