@@ -1,8 +1,15 @@
 {{ define "main" }}
   {{ partial "site-header.html" . }}
-  <h2 style="text-align: center; font-size: 2.2rem; margin-top: 1.5rem; margin-bottom: 1.2rem; font-weight: 600; letter-spacing: 1px;">Cobblestone Lake Subdivision</h2>
-  <p style="text-align: center; font-size: 1.4rem; margin-top: 0; margin-bottom: 2.2rem; font-weight: 500;">Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale.</p>
+  {{ partial "banner.html" . }}
+
+  <h2 style="text-align: center; font-size: 2.2rem; margin-top: 1.5rem; margin-bottom: 1.2rem; font-weight: 600; letter-spacing: 1px;">
+    Cobblestone Lake Subdivision
+  </h2>
+  <p style="text-align: center; font-size: 1.4rem; margin-top: 0; margin-bottom: 2.2rem; font-weight: 500;">
+    Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale.
+  </p>
+
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
     {{ .Content }}
   </article>
-{{ end }} 
+{{ end }}
