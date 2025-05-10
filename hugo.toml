@@ -5,7 +5,8 @@ title         = "Cobblestone Lake Subdivision"
 theme         = "ananke"
 relativeURLs  = true
 canonifyURLs  = true
-paginate      = 10
+pagination = { pagerSize = 10 }
+
 
 # Site‑wide parameters
 [params]
@@ -34,3 +35,5 @@ paginate      = 10
     name       = "Contact Us"
     url        = "/contact/"
     weight     = 3
+[markup.goldmark.renderer]
+unsafe = true
