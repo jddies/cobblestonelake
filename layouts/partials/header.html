@@ -1,0 +1,7 @@
+{{ $img := .Site.Params.featured_image }}
+{{ if $img }}
+  <div class="site-banner">
+    <img src="{{ $img }}" alt="Site banner" style="width:100%; height:auto;">
+  </div>
+{{ end }}
+{{ partial "nav.html" . }} 
