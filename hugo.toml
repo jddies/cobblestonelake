@@ -1,18 +1,36 @@
-# For GitHub Pages deployment, use this baseURL:
-baseURL = "https://jddies.github.io/cobblestonelake/"
-relativeURLs = true
-canonifyURLs = true
-languageCode = 'en-us'
-title = 'Cobblestone Lake'
-theme = 'ananke'
+# Base settings
+baseURL       = "https://jddies.github.io/cobblestonelake/"
+languageCode  = "en-us"
+title         = "Cobblestone Lake Subdivision"
+theme         = "ananke"
+relativeURLs  = true
+canonifyURLs  = true
+paginate      = 10
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+# Site‑wide parameters
 [params]
-  featured_image = "/images/banner.jpg"
+  # Path is relative (no leading slash) so Hugo will emit ./images/banner.jpg under your baseURL
+  featured_image = "images/banner.jpg"
+  # Optional subtitle/description
+  description    = "Cobblestone Lake has a wonderful 5‑acre private lake with 2‑acre lots for sale."
 
-# When you switch to your custom domain, change baseURL back to:
-# baseURL = 'https://visitcobblestonelake.com/'
+# Main navigation menu
+[menu]
+
+  [[menu.main]]
+    identifier = "view-lots"
+    name       = "View Lots"
+    url        = "/lots/"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "community-rules"
+    name       = "Community Rules"
+    url        = "/community-rules/"
+    weight     = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact Us"
+    url        = "/contact/"
+    weight     = 3
