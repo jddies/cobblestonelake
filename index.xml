@@ -1,37 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale. on Cobblestone Lake Subdivision</title><link>https://jddies.github.io/cobblestonelake/</link><description>Recent content in Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale. on Cobblestone Lake Subdivision</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jddies.github.io/cobblestonelake/index.xml" rel="self" type="application/rss+xml"/><item><title>Info</title><link>https://jddies.github.io/cobblestonelake/info/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/info/</guid><description>&lt;p>Cobblestone Lake has a wonderful 5 acre private lake with 2 acres lots for sale.&lt;/p></description></item><item><title>Contact Us</title><link>https://jddies.github.io/cobblestonelake/contact-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/contact-us/</guid><description>&lt;p>Contact Information:&lt;/p>
-&lt;ul>
-&lt;li>Email: &lt;a href="mailto:dies@darrelldies.com">dies@darrelldies.com&lt;/a>&lt;/li>
-&lt;li>Phone: (309) 467-4351&lt;/li>
-&lt;/ul></description></item><item><title>Covenants and Plat</title><link>https://jddies.github.io/cobblestonelake/covenants-and-plat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/covenants-and-plat/</guid><description>&lt;section class="covenants-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
- &lt;p style="font-size:1.1rem; color:#444; margin-bottom:2.5rem;">Below you'll find the official covenants and plat map for Cobblestone Lake. Click any document to view or download.&lt;/p>
- &lt;div style="display: flex; flex-direction: column; gap: 1.5rem; align-items: center;">
- &lt;a href="./docs/C_Lake_Covenants.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">Covenants (PDF)&lt;/span>&lt;/a>
- &lt;a href="./docs/C_Lake__1st_Amendment_to_Covenants.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">1st Amendment to Covenants (PDF)&lt;/span>&lt;/a>
- &lt;a href="./docs/C_Lake_Final_Plat_PDF.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">Final Plat Map (PDF)&lt;/span>&lt;/a>
- &lt;/div>
-&lt;/section>
-&lt;style>
- .doc-btn {
- display: inline-block;
- background: #e0e0e0;
- color: #111;
- padding: 0.75rem 2rem;
- border-radius: 30px;
- font-size: 1.1rem;
- font-weight: 600;
- text-decoration: none;
- box-shadow: 0 2px 8px rgba(0,0,0,0.07);
- transition: background 0.2s, box-shadow 0.2s;
- margin-bottom: 0.5rem;
- }
- .doc-btn:hover {
- background: #bdbdbd;
- box-shadow: 0 4px 16px rgba(0,0,0,0.13);
- }
- .doc-btn-text {
- color: #111;
- }
-&lt;/style></description></item><item><title>Lot Pricing</title><link>https://jddies.github.io/cobblestonelake/lot-pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/lot-pricing/</guid><description>&lt;section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale. on Cobblestone Lake Subdivision</title><link>https://jddies.github.io/cobblestonelake/</link><description>Recent content in Cobblestone Lake has a wonderful 5 acre private lake with 2 acre lots for sale. on Cobblestone Lake Subdivision</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jddies.github.io/cobblestonelake/index.xml" rel="self" type="application/rss+xml"/><item><title>Info</title><link>https://jddies.github.io/cobblestonelake/info/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/info/</guid><description>&lt;p>Cobblestone Lake has a wonderful 5 acre private lake with 2 acres lots for sale.&lt;/p></description></item><item><title/><link>https://jddies.github.io/cobblestonelake/lot-pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/lot-pricing/</guid><description>&lt;section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
  &lt;h2 style="font-size:2rem; font-weight:700; margin-bottom:1.5rem;">Available Lots at Cobblestone Lake&lt;/h2>
  &lt;img src="./images/lots.jpeg" alt="Cobblestone Lake Plat Map" style="width:100%; max-width:600px; border-radius:12px; margin-bottom:2rem; box-shadow:0 2px 12px rgba(0,0,0,0.08);" />
  &lt;ul style="list-style: disc; text-align:left; display:inline-block; margin: 0 auto 2rem auto; font-size:1.15rem; color:#333;">
@@ -65,5 +32,38 @@
  font-size: 1.3rem;
  padding: 1rem 3rem;
  margin-top: 1rem;
+ }
+&lt;/style></description></item><item><title>Contact Us</title><link>https://jddies.github.io/cobblestonelake/contact-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/contact-us/</guid><description>&lt;p>Contact Information:&lt;/p>
+&lt;ul>
+&lt;li>Email: &lt;a href="mailto:dies@darrelldies.com">dies@darrelldies.com&lt;/a>&lt;/li>
+&lt;li>Phone: (309) 467-4351&lt;/li>
+&lt;/ul></description></item><item><title>Covenants and Plat</title><link>https://jddies.github.io/cobblestonelake/covenants-and-plat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/covenants-and-plat/</guid><description>&lt;section class="covenants-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
+ &lt;p style="font-size:1.1rem; color:#444; margin-bottom:2.5rem;">Below you'll find the official covenants and plat map for Cobblestone Lake. Click any document to view or download.&lt;/p>
+ &lt;div style="display: flex; flex-direction: column; gap: 1.5rem; align-items: center;">
+ &lt;a href="./docs/C_Lake_Covenants.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">Covenants (PDF)&lt;/span>&lt;/a>
+ &lt;a href="./docs/C_Lake__1st_Amendment_to_Covenants.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">1st Amendment to Covenants (PDF)&lt;/span>&lt;/a>
+ &lt;a href="./docs/C_Lake_Final_Plat_PDF.pdf" class="doc-btn" target="_blank" rel="noopener">&lt;span class="doc-btn-text">Final Plat Map (PDF)&lt;/span>&lt;/a>
+ &lt;/div>
+&lt;/section>
+&lt;style>
+ .doc-btn {
+ display: inline-block;
+ background: #e0e0e0;
+ color: #111;
+ padding: 0.75rem 2rem;
+ border-radius: 30px;
+ font-size: 1.1rem;
+ font-weight: 600;
+ text-decoration: none;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+ transition: background 0.2s, box-shadow 0.2s;
+ margin-bottom: 0.5rem;
+ }
+ .doc-btn:hover {
+ background: #bdbdbd;
+ box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+ }
+ .doc-btn-text {
+ color: #111;
  }
 &lt;/style></description></item></channel></rss>
