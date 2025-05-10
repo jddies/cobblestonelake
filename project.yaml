@@ -1,0 +1,51 @@
+# project.yaml
+name: cobblestonelake-site
+type: hugo
+
+# Hugo directories (relative to this file)
+static_dir: static/
+content_dir: content/
+layout_dir: layouts/
+data_dir: data/
+asset_dir: assets/
+archetype_dir: archetypes/
+i18n_dir: i18n/
+theme_dir: themes/
+
+# Paths & files to ignore (Cursor won’t watch or include these)
+ignore:
+  - public/**
+  - resources/_gen/**
+  - .git/**
+  - .github/**
+  - .hugo_build.lock
+  - .gitmodules
+  - netlify.toml
+  - PROJECT_RULES.md
+  - README.md
+  - go.mod
+  - .DS_Store
+
+# Build + serve tasks
+tasks:
+  build:
+    cmd: hugo --minify
+    watch:
+      - static/**
+      - content/** 
+      - layouts/**
+      - data/**
+      - assets/**
+      - themes/**
+    outputs:
+      - public/**
+
+  serve:
+    cmd: hugo server --disableFastRender
+    watch:
+      - static/**
+      - content/**
+      - layouts/**
+      - data/**
+      - assets/**
+      - themes/**
