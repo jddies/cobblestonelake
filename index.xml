@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Cobblestone Lake Subdivision</title><link>https://jddies.github.io/cobblestonelake/</link><description>Recent content in Home on Cobblestone Lake Subdivision</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://jddies.github.io/cobblestonelake/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact Us</title><link>https://jddies.github.io/cobblestonelake/contact-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/contact-us/</guid><description>&lt;p>Contact Information:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cobblestone Lake Subdivision</title><link>https://jddies.github.io/cobblestonelake/</link><description>Recent content on Cobblestone Lake Subdivision</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://jddies.github.io/cobblestonelake/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jddies.github.io/cobblestonelake/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/info/</guid><description>&lt;p>visitcobblestonelake.com&lt;/p></description></item><item><title>Contact Us</title><link>https://jddies.github.io/cobblestonelake/contact-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/contact-us/</guid><description>&lt;p>Contact Information:&lt;/p>
 &lt;ul>
 &lt;li>Email: &lt;a href="mailto:dies@darrelldies.com">dies@darrelldies.com&lt;/a>&lt;/li>
 &lt;li>Phone: (309) 467-4351&lt;/li>
@@ -31,23 +31,7 @@
  .doc-btn-text {
  color: #111;
  }
-&lt;/style></description></item><item><title>Home</title><link>https://jddies.github.io/cobblestonelake/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/</guid><description>&lt;section class="homepage-section" style="max-width: 800px; margin: 3rem auto; text-align: center;">
- &lt;h1 style="font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">Welcome to Cobblestone Lake&lt;/h1>
- &lt;p style="font-size: 1.1rem; color: #444; margin-bottom: 2rem;">
- Discover the serenity and beauty of our private 5-acre lake community with spacious 2-acre lots available.
- &lt;/p>
- &lt;div style="margin-bottom: 2.5rem;">
- &lt;a href="./lot-pricing/" class="homepage-btn">View Lot Pricing&lt;/a>
- &lt;a href="mailto:dies@darrelldies.com" class="homepage-btn">Contact Us&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="https://maps.app.goo.gl/GkNaCXDqXY55XmxS8" target="_blank" class="homepage-btn homepage-btn-large">View Cobblestone Lake on Map&lt;/a>
- &lt;/div>
-&lt;/section>
-&lt;section class="homepage-section" style="max-width: 900px; margin: 4rem auto; padding: 0 1rem;">
- &lt;p style="font-size: 1.05rem; color: #333; line-height: 1.6;">
- Nestled just outside the charming city of Eureka, IL 61530, Cobblestone Lake offers a serene country escape with the best of small-town living. Eureka, the heart of Woodford County, is a tight-knit community of about 5,165 residents, known for its rich history, including ties to President Ronald Reagan, who graduated from Eureka College. The area boasts a peaceful rural vibe with easy access to modern amenities—think short commutes, top-rated schools like those in the Eureka CUD 140 District, and a low cost of living, with median home values around $150,000. With its proximity to the Peoria metropolitan area, Cobblestone Lake provides the perfect blend of tranquil lakefront living and the vibrant culture, dining, and recreation of nearby urban hubs, making it an ideal spot for families and retirees alike.
- &lt;/p></description></item><item><title>Lot Pricing</title><link>https://jddies.github.io/cobblestonelake/lot-pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/lot-pricing/</guid><description>&lt;section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
+&lt;/style></description></item><item><title>Lot Pricing</title><link>https://jddies.github.io/cobblestonelake/lot-pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jddies.github.io/cobblestonelake/lot-pricing/</guid><description>&lt;section class="lot-pricing-section" style="max-width: 800px; margin: 2rem auto; text-align: center;">
  &lt;h2 style="font-size:2rem; font-weight:700; margin-bottom:1.5rem;">Available Lots at Cobblestone Lake&lt;/h2>
  &lt;img src="./images/lots.jpeg" alt="Cobblestone Lake Plat Map" style="width:100%; max-width:600px; border-radius:12px; margin-bottom:2rem; box-shadow:0 2px 12px rgba(0,0,0,0.08);" />
  &lt;div style="margin-top: 2rem; text-align: center;">
