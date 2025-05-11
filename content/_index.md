@@ -1,4 +1,1 @@
----
-title: "Home"
-layout: "index"
----
+visitcobblestonelake.com
